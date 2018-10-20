@@ -30,3 +30,5 @@ To complete this, you will need:
 18 White 4x1 bricks
 For a total of 2582 bricks.
 ```
+
+If you are trying to run this program on your own machine, you will need the colors.csv file from [this](https://www.kaggle.com/rtatman/lego-database) link.
